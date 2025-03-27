@@ -1,4 +1,4 @@
-# Olá! bem vido(a) ao meu github. Eu sou a Emilly 👩‍💻✨
+# Olá! bem vido(a) ao meu github. Eu sou Emilly 👩‍💻✨
 
   💻Desenvolvedora beck-end em formação   
   📚Estudando HTML, CSS, JAVASCRIPT e PHP  
