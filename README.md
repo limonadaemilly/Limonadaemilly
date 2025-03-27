@@ -1,4 +1,5 @@
-# Olá! bem vido(a) ao meu github. Eu sou Emilly 👩‍💻✨
+# Olá! bem vido(a) ao meu github.**`Me chamo Emilly`**  👩‍💻✨ 
+
 
   💻Desenvolvedora beck-end em formação   
   📚Estudando HTML, CSS, JAVASCRIPT e PHP  
@@ -7,7 +8,7 @@
   ### 🌐 Tecnologias e Ferramentas
   - HTML | CSS | JAVASCRIPT
   - PHP  | MySQL
-  - Git  | GITHUB | VS CODE
+  - Git  | GITHUB | `VS CODE`
 
 - ### I'm from Brazil!
 
